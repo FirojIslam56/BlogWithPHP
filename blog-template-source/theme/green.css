@@ -1,0 +1,32 @@
+
+/*-------------gren----------------*/
+.contentsection {border: 1px solid #0e8c0e;}
+.headersection {background: #008000 repeat scroll 0 0;}
+.icon a {background: #60b360 none repeat scroll 0 0;}
+.searchbtn input[type="text"] {border: 1px solid #0e6a0e;background: #63ca63;}
+input[type="submit"] {background: #63CA63 none repeat scroll 0 0;border: 1px solid #0e6a0e;}
+.searchbtn input[type="submit"] {border: 1px solid #087708;}
+.searchbtn input[type="submit"]:hover {background: #37aa37 none repeat scroll 0 0;border: 1px solid #137713;}
+.navsection {background: none repeat scroll 0 0 #359f35;}
+.navsection ul li:first-child {border-left: 0px solid #fdc662;}
+.navsection ul li {border-left: 1px solid #4dbf4d;border-right: 1px solid #044d04;}
+.navsection ul li a:hover, #active {background: #80d980;}
+
+.maincontent {background: #aef9ae none repeat scroll 0 0;border: 1px solid #63d563;}
+.samepost h2 a {color: #087108;}
+.samepost img {border: 1px solid #167516;}
+.readmore a {border: 1px solid #24a224;color: #24a224;}
+.readmore a:hover {color: green;}
+
+.sidebar {background: #aef9ae none repeat scroll 0 0;border: 1px solid #63d563;}
+.samesidebar h2 {background: #5cdb5c none repeat scroll 0 0;border-bottom: 2px solid #097d09;}
+.relatedpost h2 {background: #5cdb5c none repeat scroll 0 0;border-bottom: 2px solid #097d09 !important;}
+.popular img {border: 1px solid #0e730e;}
+
+.pagination li:hover {border: 1px solid orange;}
+.pagination li {background: #20db20;}
+element {background: orange;}
+.footersection {background: #008000;}
+.footermenu ul li a {color: #21d221;}
+
+.samepost h2, .about h2 {border-bottom: 2px solid #67b967;color: #076207;}

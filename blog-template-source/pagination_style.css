@@ -1,0 +1,23 @@
+
+
+
+.pagination{
+	text-align: center;
+}
+.pagination li{
+	list-style: none;
+	display: inline;
+	background: orange;
+	padding: 5px;
+	margin: 2px;
+	border-radius: 5px;
+}
+.pagination li:hover{
+	border: 1px solid green;
+}
+.pagination li a{
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	cursor: pointer;
+}
